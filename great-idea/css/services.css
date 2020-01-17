@@ -1,0 +1,167 @@
+/* Services HTML code starts here. */
+
+* {
+    /*border: 1px solid black;*/
+    max-width: 100%;
+    font-size: large;
+    box-sizing: border-box;
+}
+
+h1, h3 {
+    font-family: 'Acme', sans-serif;
+}
+
+a, p, li {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-bar {
+    margin: 0% 5% 0% 5%;
+    display: flex;
+    align-items: center;
+}
+
+.nav-bar a {
+    color: grey;
+    padding: 1% 11.93% 1% 0%;
+    text-decoration: none;
+}
+
+.nav-bar img {
+    padding: 1% 0% 1% 0%;
+}
+
+header {
+    margin: 0% 5% 0% 5%;
+    border-bottom: 2px solid black;
+}
+
+header img {
+    width: 100%;
+}
+
+.first-section {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid black;
+    margin: 0% 5% 0% 5%;
+}
+
+.d-design {
+    width: 48%;
+    margin: 2% 2% 1% 0%;
+    padding: 0% 2% 1% 2%;
+    border: 1px black solid;
+    background-color:lightgray;
+}
+
+.d-design button {
+    width: 20%;
+    height: 20%;
+    border: black solid 1px;
+    border-radius: 5px;
+}
+
+.ux-ui {
+    width: 50%;
+    margin: 2% 0% 1% 0%;
+    padding: 0% 2% 1% 2%;
+    border: 1px black solid;
+    background-color: lightgray;
+}
+
+.ux-ui button {
+    width: 20%;
+    height: 20%;
+    border: black solid 1px;
+    border-radius: 5px;
+}
+
+.digital {
+    width: 48%;
+    margin: 1% 2% 1% 0%;
+    padding: 0% 2% 1% 2%;
+    border: 1px black solid;
+    background-color: lightgray;
+}
+
+.digital button {
+    width: 20%;
+    height: 20%;
+    border: black solid 1px;
+    border-radius: 5px;
+}
+
+.web {
+    width: 50%;
+    margin: 1% 0% 1% 0%;
+    padding: 0% 2% 1% 2%;
+    border: 1px black solid;
+    background-color: lightgray;
+}
+
+.web button {
+    width: 20%;
+    height: 20%;
+    border: black solid 1px;
+    border-radius: 5px;
+}
+
+.iOS {
+    width: 48%;
+    margin: 1% 2% 2% 0%;
+    padding: 0% 2% 1% 2%;
+    border: 1px black solid;
+    background-color: lightgray;
+}
+
+.iOS button {
+    width: 20%;
+    height: 20%;
+    border: black solid 1px;
+    border-radius: 5px;
+}
+
+.android {
+    width: 50%;
+    margin: 1% 0% 2% 0%;
+    padding: 0% 2% 1% 2%;
+    border: 1px black solid;
+    background-color: lightgray;
+}
+
+.android button {
+    width: 20%;
+    height: 20%;
+    border: black solid 1px;
+    border-radius: 5px;
+}
+
+.second-section {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0% 5% 0% 5%;
+}
+
+.service {
+    width: 48%;
+}
+
+.service ul {
+    padding: 0% 0% 0% 3%;
+}
+
+.service li {
+    list-style: square;
+    margin: 0% 0% 2% 0%;
+}
+
+.second-section img {
+    margin: 0% 0% 0% 10%;
+}
+
+footer {
+    padding: 1%;
+    margin: 0% 5% 0% 5%;
+    text-align: center;
+}
